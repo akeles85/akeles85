@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @akeles85
-- 👀 I’m interested in low latency codes and operating systems.
+- 👀 I’m interested in low latency and real time systems
